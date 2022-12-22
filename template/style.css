@@ -1,0 +1,49 @@
+@font-face {
+    font-family: PressStart;
+    src: url(PressStart2P-Regular.ttf);
+}
+
+body {
+    font-weight: bold;
+    background-color: #0e0100;
+}
+
+h1 {
+    color: #00b80d;
+    font-family: PressStart;
+    font-size: 5rem;
+}
+
+#form-div {
+    color: white;
+    display: block;
+    text-align: center;
+}
+
+.error {
+    color: white;
+}
+
+form {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.number {
+    color: #0086b8;
+}
+
+.single-multiple {
+    color: #b8003d;
+}
+
+.multiples {
+    color: #00b80d;
+}
+
+p, h1, h2 {
+    width: 100%;
+    text-align: center;
+}
